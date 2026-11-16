@@ -1,0 +1,10 @@
+/dataset
+/emo_extracted
+/emo-wavs.zip.*
+/metadata.csv
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
